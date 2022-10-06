@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "email": "gmmmarcos@gmail.com",
+    "timestamp": "19/9/2022 23:11:22",
+    "message": "Hola, entro nuevo stock?"
+  },
+  {
+    "id": 2,
+    "email": "marcosgarzonmdq@gmail.com",
+    "timestamp": "19/9/2022 23:30:00",
+    "message": "No, nada"
+  },
+  {
+    "id": 3,
+    "email": "marcosfake@hotmail.com",
+    "timestamp": "19/9/2022 23:59:33",
+    "message": "Porque hay que cargarlo primero..."
+  },
+  {
+    "id": 4,
+    "email": "gmmmarcos@gmail.com",
+    "timestamp": "22/9/2022 13:13:14",
+    "message": "Recibido!"
+  },
+  {
+    "id": 5,
+    "email": "flexgimnasio90@gmail.com",
+    "timestamp": "6/10/2022 0:56:34",
+    "message": "Hola, manden presupuesto!"
+  },
+  {
+    "id": 6,
+    "email": "12525",
+    "timestamp": "6/10/2022 1:57:45",
+    "message": "hola"
+  },
+  {
+    "id": 7,
+    "email": "Roncovich",
+    "timestamp": "6/10/2022 2:07:01",
+    "message": "Hola jefesito!"
+  },
+  {
+    "id": 8,
+    "email": "1",
+    "timestamp": "6/10/2022 2:10:13",
+    "message": "1"
+  },
+  {
+    "id": 9,
+    "email": "3",
+    "timestamp": "6/10/2022 2:14:45",
+    "message": "3"
+  },
+  {
+    "id": 10,
+    "email": "2",
+    "timestamp": "6/10/2022 2:25:27",
+    "message": "2"
+  },
+  {
+    "id": 11,
+    "email": "9",
+    "timestamp": "6/10/2022 2:36:37",
+    "message": "9"
+  }
+]
