@@ -3,7 +3,7 @@ const router = express.Router()
 const options = require('../options/sqlite3.config.js')
 
 const Manager = require('../controllers/chat.manager.js')
-const manager = new Manager(options, 'chat')
+const manager = new Manager('message')
 
 router.get('/', (req, res) => {
     manager.findAll()

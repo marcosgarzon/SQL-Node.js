@@ -3,7 +3,7 @@ const router = express.Router()
 const options = require('../options/mysql.config.js')
 
 const Manager = require('../controllers/product.manager')
-const manager = new Manager(options, 'products')
+const manager = new Manager('products')
 
 
 

@@ -10,8 +10,8 @@ const knex = require('knex')
 const ProductManager = require('./controllers/product.manager')
 const ChatManager = require('./controllers/chat.manager')
 
-const productManager = new ProductManager(options1, 'products')
-const chatManager = new ChatManager(options2, 'chat')
+const productManager = new ProductManager()
+const chatManager = new ChatManager()
 
 
 const app = express()
